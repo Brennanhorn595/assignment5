@@ -1,0 +1,2 @@
+# assignment5
+This week you will be demonstrating your ability to effectively use color. You will be choosing a real company and creating a product launch page that embodies the company’s brand and spirit. You will create a new product and design a page that utilizes the company’s existing logos, colors, etc. If the company you choose has a public style guide, you may use this for inspiration.  https://www.roblox.com/home
